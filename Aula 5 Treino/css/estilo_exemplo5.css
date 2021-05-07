@@ -1,0 +1,38 @@
+body {
+  font-family: verdana;
+  font-size: 2em;
+}
+
+section {
+  width: 100%;
+  margin:auto;
+}
+
+aside {
+  width: 30%;
+  height: 550px;
+  float:left;
+  background: #0000FF;
+}
+
+nav {
+  width: 70%;
+  height: 40px;
+  float: right;
+  background: #008080;
+}
+
+main {
+  width: 70%;
+  height: 400px;
+  float: right;
+  background: #FFF;
+}
+
+footer {
+  width: 70%;
+  height: 50px;
+  float: right;
+  background: #000080;
+  clear: both;
+}
